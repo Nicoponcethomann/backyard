@@ -1,0 +1,86 @@
+*{
+	font-family: "Open Sans";
+}
+
+.head-background, .foot-background{
+	background-color: #9AC3E5;
+}
+
+.content-background{
+	background-color: #EF5853;
+}
+
+.head-cont{
+	padding: 10px 0px;
+	color: black;
+}
+
+.logo-left img{
+	width: 30%;
+}
+
+.nav-right a{
+	text-decoration: none;
+	margin: 0px 10px;
+	color: black;
+}
+
+.nav-right a:hover{
+	color: white;
+}
+
+.nav-right{
+	text-align: right;
+}
+
+.content-cont{
+	padding: 5% 0%;
+	color: white;
+}
+
+.title-content{
+	font-size: 300%;
+}
+
+.p-content{
+	font-size: 80%;
+	margin: 5% 0%;
+}
+
+form{
+	background-color: #EF6663;
+	background-size: 100%;
+	text-align: center;
+	padding: 15% 0%;
+	width: 160%;
+	border-radius: 5%;
+	margin-left: 12%;
+}
+
+#name, #email{
+	width: 80%;
+	margin-top: 3%;
+}
+
+.send{
+	width: 80%;
+	padding: 2%;
+	margin-top: 3%;
+	text-align: center;
+	color: white;
+	background-color: #9AC3E5;
+}
+
+.send:hover{
+	color: black;
+}
+
+.foot-cont{
+	padding-top: 1%;
+	padding-bottom: 9%;
+}
+
+.foot-cont a{
+	color: white;
+	text-decoration: none;
+}

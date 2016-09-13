@@ -1,0 +1,31 @@
+@media (max-width: 535px){
+	[class*="col-"]{
+		width: 100%;
+	}
+
+	.logo-left{
+		width: 50%;
+	}
+
+	.nav-right{
+		padding-right: 50%;
+		width: 50%;
+	}
+
+	.nav-right a{
+		width: 20%;
+		margin: 0%;
+	}
+
+	.title-content, .p-content{
+		width: 40%;
+		padding: 1%;
+	}
+
+	form{
+		width: 30%;
+		margin-left: 2%;
+	}
+
+
+}
