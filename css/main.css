@@ -16,21 +16,21 @@
 }
 
 .logo-left img{
-	width: 30%;
+	width: 40%;
+}
+
+.nav-right{
+	padding-left: 30%;
 }
 
 .nav-right a{
 	text-decoration: none;
-	margin: 0px 10px;
 	color: black;
+	margin: 0% 3%;
 }
 
 .nav-right a:hover{
 	color: white;
-}
-
-.nav-right{
-	text-align: right;
 }
 
 .content-cont{
